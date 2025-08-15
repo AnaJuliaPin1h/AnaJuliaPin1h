@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello 👋
 
 <!--
 **AnaJuliaPin1h/AnaJuliaPin1h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
