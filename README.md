@@ -1,5 +1,5 @@
 
-## hello 👋
+## Olá 👋
 
 - 📚 **Formação**: Estudante de Análise e Desenvolvimento de Sistemas na UMC  
 - 💻 **1º semestre**: Python e desafios de programação em Python  
