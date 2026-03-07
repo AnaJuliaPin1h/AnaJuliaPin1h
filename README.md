@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">Experiências com essas tecnologias:</h2>
+<h2 align="left">Experiência com essas tecnologias:</h2>
 
 ###
 
