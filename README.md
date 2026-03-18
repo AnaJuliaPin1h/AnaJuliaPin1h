@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 Formação: Estudante de Análise e Desenvolvimento de Sistemas na UMC<br>💻 1º semestre: Python e desafios de programação em Python<br>💻 2º semestre: HTML, CSS, PHP, Banco de Dados NoSQL e MySQL <br>💻 3º semestre: Administração de Sistemas de Informação e Java POO<br>🌱 Atualmente estudando: Java e ERP</p>
+<p align="left">📚 Formação: Estudante de Análise e Desenvolvimento de Sistemas na UMC<br>💻 1º semestre: Python e desafios de programação em Python<br>💻 2º semestre: HTML, CSS, PHP, Banco de Dados NoSQL e MySQL <br>💻 3º semestre: Administração de Sistemas de Informação e Java POO<br>🌱 Atualmente estudando: Java POO, ERP e MRP</p>
 
 ###
 
