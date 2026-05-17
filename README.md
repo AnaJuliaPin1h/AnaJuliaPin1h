@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Meu nome é Ana Julia Pinheiro</p>
+<p align="left">Sou Ana Julia Pinheiro</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 Formação: Estudante de Análise e Desenvolvimento de Sistemas na UMC<br>💻 1º semestre: Python e desafios de programação em Python<br>💻 2º semestre: HTML, CSS, PHP, Banco de Dados NoSQL e MySQL <br>💻 3º semestre: Administração de Sistemas de Informação e Java POO<br>🌱 Atualmente estudando: Java POO, ERP e MRP</p>
+<p align="left">📚 Formação: Estudante de Análise e Desenvolvimento de Sistemas na UMC<br>💻 1º semestre: Python e desafios de programação em Python<br>💻 2º semestre: HTML, CSS, PHP, Banco de Dados NoSQL e MySQL <br>💻 3º semestre: Administração de Sistemas de Informação e Java POO com Spring Boot <br>🌱 Atualmente estudando: Java POO, ERP e Métodos ágeis</p>
 
 ###
 
@@ -39,8 +39,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -50,8 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
